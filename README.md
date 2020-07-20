@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/vedantsakhardande/vedantsakhardande.github.io/blob/master/mypic.jpg?raw=true" alt="Vedant Sakhardande" width="150" height="150">
+<!--<img src="https://github.com/vedantsakhardande/vedantsakhardande.github.io/blob/master/mypic.jpg?raw=true" alt="Vedant Sakhardande" width="150" height="150">-->
 
 Hey, I am Vedant Sakhardande, a **Full Stack Software Developer** and a Bachelor of Computer Engineering graduate from Mumbai.
 
